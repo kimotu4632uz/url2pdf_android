@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">url2pdf</string>
+    <string name="logcat">Logcat</string>
+</resources>
